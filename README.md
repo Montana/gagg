@@ -7,7 +7,7 @@ The idea in itself is not mine, it is Mazzy McDaid's I'm redoing JS, some of the
 <img src="http://getprowl.com/assets/images/mazzy.png" width="1400" height="500" />
 
 # gagg
-The objective of this project is "unwordpressing" of the site gagg.us - this GitHub repo is (as most are) is for version control, essentially is to save progress. Code written by Montana Mendy.
+The objective of this project is "unwordpressing" of the site gagg.us - this GitHub repo is (as most are) is for version control, essentially to save progress. Code written by Montana Mendy.
 
 First we can use https://wordpress.org/plugins/static-html-output-plugin/, this converts a WP site into a static HTML website. Which makes for easier editing for someone who knows HTML, CSS , JS. You could also run 
 
