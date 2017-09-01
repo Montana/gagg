@@ -1,6 +1,6 @@
 ![gagg](https://getprowl.com/assets/images/gagg.png)
 
-The idea in itself is not mine, it is Mazzy McDaid's I'm redoing JS, and unwordpressing her website. The idea again is not mine, this is Mazzy the owner/creator of Gagg. 
+The idea in itself is not mine, it is Mazzy McDaid's I'm redoing JS, some HTML, inserting some ReactJS and unwordpressing her website. The idea again is not mine, this is Mazzy the owner/creator of Gagg pictured below. 
 
 <img src="http://getprowl.com/assets/images/mazzy.png" width="1400" height="500" />
 
