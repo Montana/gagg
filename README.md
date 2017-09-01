@@ -1,4 +1,4 @@
-![gagg](http://www.getprowl.com/gagg.png)
+![gagg](https://getprowl.com/assets/images/gagg.png)
 # gagg.us
 Mazzy's "unwordpressing" of her site gagg.us - this GithHub repo is (as most are) is for version control, essentially is to save progress. Code written by Montana Mendy
 
