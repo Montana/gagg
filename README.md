@@ -2,7 +2,7 @@
 
 The idea in itself is not mine, it is Mazzy McDaid's I'm redoing JS, and unwordpressing her website. The idea again is not mine, this is Mazzy the owner/creator of Gagg. 
 
-(https://getprowl.com/assets/images/mazzy.png)
+![mazzy](https://getprowl.com/assets/images/mazzy.png)
 
 # gagg.us
 Mazzy's "unwordpressing" of her site gagg.us - this GithHub repo is (as most are) is for version control, essentially is to save progress. Code written by Montana Mendy.
