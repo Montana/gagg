@@ -18,3 +18,5 @@ To get every single file on Gagg and replace it with the work I have done via Re
 The theme in question here is http://www.mojomarketplace.com/item/fusion-magazine-wordpress-theme, you can see the edited version at www.gagg.us.
 
 I might replace some of the outstanding JS with ShiftJS -- depending on what problems I run into. I doubt this will need to be done though.
+
+This is not finished, and a work in progress, via discussions between her and I. 
