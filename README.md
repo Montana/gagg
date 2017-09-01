@@ -11,6 +11,8 @@ First we can use https://wordpress.org/plugins/static-html-output-plugin/, this 
 
 <pre>wget -mkEpnp http://gagg.us</pre> 
 
+You could also use something like HTTrack. 
+
 To get every single file on Gagg and replace it with the work I have done via React, Shift, etc. 
 
 The theme in question here is http://www.mojomarketplace.com/item/fusion-magazine-wordpress-theme, you can see the edited version at www.gagg.us.
