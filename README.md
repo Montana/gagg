@@ -2,7 +2,7 @@
 
 This should be a private repo as most of these are notes for myself, but it could be a good learning tutorial for people who want to "unwordpress" a website -- so I decided to make this repo public.
 
-The idea in itself is not mine, it is Mazzy McDaid's I'm redoing JS, some of the CSS, and of course some HTML, inserting some ReactJS and unwordpressing her website. The idea again is not mine, this is Mazzy the owner/creator of Gagg pictured below. 
+The idea in itself is not mine, it is Mazzy McDaid's I'm redoing JS, some of the CSS, and of course some HTML. I'm also inserting some ReactJS and the process of unwordpressing her website. The idea again is not mine, this is Mazzy the owner/creator of Gagg pictured below. 
 
 <img src="http://getprowl.com/assets/images/mazzy.png" width="1400" height="500" />
 
